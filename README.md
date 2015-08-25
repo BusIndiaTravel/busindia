@@ -1,0 +1,2 @@
+# busindia
+Busindia.com is the world's largest integrated online bus ticketing portal today. It brings together government and private bus transport operators across India under a single window, thus facilitating users to plan their bus travel across Indian cities with ease. Being the only portal for interstate connectivity, BusIndia.com also enables users to do trip booking and hotel booking, providing a full itinerary experience for the first time in Indian bus booking.
